@@ -1,1 +1,1 @@
-# Th-c-t-p-n-c-s-ng-nh
+Thực tập đồ án cơ sở ngàng
